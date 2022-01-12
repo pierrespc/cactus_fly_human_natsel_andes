@@ -7,8 +7,10 @@ Scripts related to human adaptation analsyses from Padró, De Panis, Luisi, et a
 
 The data used for the analyses can not be distributed and should be request to external researchers as stated in the paper and/or downloading from the 1000 genomes project.
 
-WARNING: Scripts are provided as generated to be run locally without adatping the paths to reach the data.
-The arbolescence of the scripts is not warranted as I reordered them for clarity in the github repository
+WARNING: Scripts are provided as generated to be run locally without adapting the paths to reach the data.
+Since I reordered the scripts for clarity in the github repository.
+The arbolescence of the scripts is not warranted as I reordered them for clarity in the github repository.
+If you encounter issues to adapt the script for your needs, just reach me! 
 
 ### DataCuration folder: 
 scripts related to the steps for filtering individuals to be include for target and reference populations
